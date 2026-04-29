@@ -43,7 +43,7 @@ EXPERIENCE : Intern @ PT. Garuda Cyber Indonesia
 
 <!-- Tech Stack -->
 <div align="center">
-  <h2>🛸 TECH ARSENAL</h2>
+  <h2>🛸 TECH </h2>
 </div>
 
 <div align="center">
