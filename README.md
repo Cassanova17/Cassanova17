@@ -240,7 +240,6 @@ EXPERIENCE : Intern @ PT. Garuda Cyber Indonesia
   <img src="https://raw.githubusercontent.com/Cassanova17/Cassanova17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> *Note: Untuk mengaktifkan snake animation, buat GitHub Action di repo ini. Instruksi ada di bawah.*
 
 ---
 
